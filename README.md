@@ -105,6 +105,8 @@ pip install -r requirements.txt
 -   Execute CUSUM Experiments
 -   Execute Robustness and Resilience Experiments
 -   Execute Anomaly Detection Experiments
+-   Execute Hyperparameter Optimizations
+-   Execute Comparissons
 -   Execute Plotting
 -   Due to the enormity of the datasets and the whole experimental evaluation, it might take some time. Be patient or optimize the code!
 
