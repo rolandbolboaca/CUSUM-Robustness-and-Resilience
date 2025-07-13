@@ -83,11 +83,30 @@ pip install -r requirements.txt
 
 ## ▶️ Run Instructions
 
-- Execute Setup Functions Blocks
-- If you dont have the datasets:
+-   Execute Setup Functions Blocks
+-   First time loading the data takes time. 
+    - However, they are stored first in a dictionary for access to file names and everything.
+    - Secondly in np arrays (this is way faster).
+
+-   If you dont have the datasets:
     1.   You can download them from the links in the dataset section
     2.   You can load them from the pickle file!
-- Execute CUSUM Experiments
+    3.   You can generate them from the code in the dataset section
+    4.   You can use the pkl files: np_all_data_..._.pkl.
+        - They are already converted to np arrays (recommended). Place them in the dataset dir.
+        
+-   I recommend skipping to 4. Download np pkls and use that.
+-   Play arround with the parameters in the Setup Functions Blocks
+-   Play arround with the parameters in the lower blocks:
+    -   Robustness and Resilience Experiments
+    -   Dataset Params
+    -   CUSUM Params
+    -   Model Params
+-   Execute CUSUM Experiments
+-   Execute Robustness and Resilience Experiments
+-   Execute Anomaly Detection Experiments
+-   Execute Plotting
+-   Due to the enormity of the datasets and the whole experimental evaluation, it might take some time. Be patient or optimize the code!
 
 ## 📚 References
 
