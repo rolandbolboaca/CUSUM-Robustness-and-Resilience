@@ -4,8 +4,26 @@
 This repository contains the experimental code and dataset references for the paper:
 
 **"Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection"**  
-(*To appear in: Interdisciplinarity in Engineering International Conference, Springer Nature, 2025*)  
+(*To appear in: Journal, 2025*)  
 
+## 📚 Citation
+
+If you use this code or dataset in your research, please cite our article:
+
+```bibtex
+@Article{rolandcusumbib,
+  AUTHOR = {Bolboacă, Roland },
+  TITLE = {Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection},
+  JOURNAL = {},
+  VOLUME = {},
+  YEAR = {2025},
+  NUMBER = {},
+  ARTICLE-NUMBER = {},
+  URL = {},
+  ISSN = {},
+  DOI = {}
+}
+```
 ---
 
 ## 🧪 CUSUM Papers Referenced
@@ -66,12 +84,12 @@ This repository contains the experimental code and dataset references for the pa
 - **DD** – Detection Delay (time until first anomaly detection)  
 
 **Robustness Metrics**
-- **FAR_N** – FAR under added noise (mean + std)  
+- **FAR_N** – FAR under added noise (mean + std) and outliers
 - **Stability Index (SI)** – Number of sign changes or oscillations  
 
 **Resilience Metrics**
 - **Recovery Time (RT)** – Time to stabilize after detection  
-- **Resilience Score (RS)** – `1 / (RT + α × overshoot)`
+- **Stability Time (ST)** - time until the decision statistic is stable for N consecutive samples
 
 ---
 
@@ -108,12 +126,13 @@ pip install -r requirements.txt
 -   Execute Hyperparameter Optimizations
 -   Execute Comparissons
 -   Execute Plotting
--   Due to the enormity of the datasets and the whole experimental evaluation, it might take some time. Be patient or optimize the code!
+-   **Due to the enormity of the datasets and experiments, running times might be high!** 
+-   Be patient or feel free to further optimize the code!
 
 ## 📚 References
 
 ### 📄 Paper
-[1] Bolboaca R., *Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection*, Interdisciplinarity in Engineering International Conference. Springer Nature, 2025.  
+[1] Bolboaca R., *Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection*, Journal: , 2025.  
 ➡️ *Link pending* (check Google Scholar)
 
 ### 📄 CUSUM Literature
@@ -140,3 +159,9 @@ pip install -r requirements.txt
 ## ⚖️ License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 👤 Authors
+
+**Roland Bolboaca**  
