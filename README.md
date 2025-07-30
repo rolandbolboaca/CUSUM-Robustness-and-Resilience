@@ -125,6 +125,7 @@ pip install -r requirements.txt
 -   Execute Anomaly Detection Experiments
 -   Execute Hyperparameter Optimizations
 -   Execute Comparissons
+-   Execute Parameter Analysis (quite comprehensive analysis right here!)
 -   Execute Plotting
 -   **Due to the enormity of the datasets and experiments, running times might be high!** 
 -   Be patient or feel free to further optimize the code!
