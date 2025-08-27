@@ -80,8 +80,6 @@ If you use this code or dataset in your research, please cite our article:
 - **DD** – Detection Delay (time until first anomaly detection)  
 
 **Robustness Metrics**
-- **FAR_N** – FAR under added noise (mean + std) and outliers
-- **Stability Index (SI)** – Number of sign changes or oscillations
 - **Noise and outliers robustness score (NORS)** - The relative drop in performance compared to the baseline scenario (e.g., on the clean dataset without noise and/or outliers)
 
 **Resilience Metrics**
@@ -110,19 +108,18 @@ pip install -r requirements.txt
     4.   You can use the pkl files: np_all_data_..._.pkl.
         - They are already converted to np arrays (recommended). Place them in the dataset dir.
         
--   I recommend skipping to 4. Download np pkls and use that.
 -   Play arround with the parameters in the Setup Functions Blocks
 -   Play arround with the parameters in the lower blocks:
     -   Robustness and Resilience Experiments
     -   Dataset Params
     -   CUSUM Params
     -   Model Params
+    -   Comparissons
 -   Execute CUSUM Experiments
 -   Execute Robustness and Resilience Experiments
 -   Execute Anomaly Detection Experiments
--   Execute Hyperparameter Optimizations
 -   Execute Comparissons
--   Execute Parameter Analysis (quite comprehensive analysis right here!)
+-   Execute Parameter Analysis
 -   Execute Plotting
 -   **Due to the enormity of the datasets and experiments, running times might be high!** 
 -   Be patient or feel free to further optimize the code!
