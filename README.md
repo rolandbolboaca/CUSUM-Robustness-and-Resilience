@@ -81,7 +81,8 @@ If you use this code or dataset in your research, please cite our article:
 
 **Robustness Metrics**
 - **FAR_N** – FAR under added noise (mean + std) and outliers
-- **Stability Index (SI)** – Number of sign changes or oscillations  
+- **Stability Index (SI)** – Number of sign changes or oscillations
+- **Noise and outliers robustness score (NORS)** - The relative drop in performance compared to the baseline scenario (e.g., on the clean dataset without noise and/or outliers)
 
 **Resilience Metrics**
 - **Recovery Time (RT)** – Time to stabilize after detection  
