@@ -73,10 +73,6 @@ If you use this code or dataset in your research, please cite our article:
 
 ---
 
-### 🔹 [VSD – Voltage Signal Dataset](https://www.kaggle.com/datasets/neuralsorcerer/voltage-signal-dataset)
-
----
-
 ## 📈 Evaluation Metrics
 
 - **FAR** – False Alarm Rate on normal data  
