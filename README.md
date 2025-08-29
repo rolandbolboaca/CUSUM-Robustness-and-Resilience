@@ -8,7 +8,7 @@ This repository contains the experimental code and dataset references for the pa
 
 ## 📚 Citation
 
-If you use this code or dataset in your research, please cite our article:
+If you use this code or dataset in your research, please cite the article:
 
 ```bibtex
 @Article{rolandcusumbib,
