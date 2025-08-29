@@ -3,7 +3,7 @@
 
 This repository contains the experimental code and dataset references for the paper:
 
-**"Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection"**  
+**"Cumulative Sums Robustness and Resilience in the Context of Time Series Anomaly Detection"**  
 (*To appear in: Journal, 2025*)  
 
 ## 📚 Citation
