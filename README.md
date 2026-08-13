@@ -4,7 +4,7 @@
 This repository contains the experimental code and dataset references for the paper:
 
 **"Cumulative Sums Robustness and Resilience in the Context of Time Series Anomaly Detection"**  
-(*To appear in: Journal, 2025*)  
+(*To appear in: Journal, 2026*)  
 
 ## 📚 Citation
 
@@ -14,9 +14,9 @@ If you use this code or dataset in your research, please cite the article:
 @Article{rolandcusumbib,
   AUTHOR = {Bolboacă, Roland },
   TITLE = {Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection},
-  JOURNAL = {},
+  JOURNAL = {Quality and Reliability Engineering International, Wiley},
   VOLUME = {},
-  YEAR = {2025},
+  YEAR = {2026},
   NUMBER = {},
   ARTICLE-NUMBER = {},
   URL = {},
