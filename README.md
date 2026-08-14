@@ -8,7 +8,7 @@ This repository contains the experimental code and dataset references for the pa
 
 ## Citation
 
-If you use this code or dataset in your research, please cite the article:
+If you use this code or dataset in your research, please cite the article (Check Google Scholar for final version, if I forget to update bib item here!):
 
 ```bibtex
 @Article{rolandcusumbib,
@@ -57,7 +57,7 @@ If you use this code or dataset in your research, please cite the article:
 
 ---
 
-### 🔹 [SKAB – Skoltech Anomaly Benchmark](https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab)
+### [SKAB – Skoltech Anomaly Benchmark](https://www.kaggle.com/datasets/yuriykatser/skoltech-anomaly-benchmark-skab)
 - **Variables**: 11  
 - **Clean**: 9,406 observations  
 - **Anomaly**: 3 types × 10 files each ≈ 1,100 observations/file  
