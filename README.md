@@ -8,7 +8,8 @@ This repository contains the experimental code and dataset references for the pa
 
 ## Citation
 
-If you use this code or dataset in your research, please cite the article (Check Google Scholar for final version, if I forget to update bib item here!):
+If you use this code or dataset in your research, please cite the article 
+(Check Google Scholar for final version, if I forget to update bib item here!):
 
 ```bibtex
 @Article{rolandcusumbib,
@@ -157,6 +158,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 👤 Authors
+## Authors
 
 **Roland Bolboaca**  
