@@ -12,18 +12,20 @@ If you use this code or dataset in your research, please cite the article
 (Check Google Scholar for final version, if I forget to update bib item here!):
 
 ```bibtex
-@Article{rolandcusumbib,
-  AUTHOR = {Bolboacă, Roland },
-  TITLE = {Cumulative Sums Resilience and Robustness in the Context of Time Series Anomaly Detection},
-  JOURNAL = {Quality and Reliability Engineering International, Wiley},
-  VOLUME = {},
-  YEAR = {2026},
-  NUMBER = {},
-  ARTICLE-NUMBER = {},
-  URL = {},
-  ISSN = {},
-  DOI = {}
+@article{rolamdbCUSUMRR,
+author = {Bolboacă, Roland},
+title = {Cumulative Sums Robustness and Resilience in the Context of Time Series Anomaly Detection},
+journal = {Quality and Reliability Engineering International},
+volume = {n/a},
+number = {n/a},
+pages = {},
+keywords = {anomaly detection, CUMSUM, fault detection, LSTM, performance evaluation, resilience, robustness, time series},
+doi = {https://doi.org/10.1002/qre.70411},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/qre.70411},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/qre.70411},
 }
+
+
 ```
 ---
 
